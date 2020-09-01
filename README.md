@@ -1,2 +1,2 @@
 # Jenkins
-Hostname:8080
+server IP:8080
